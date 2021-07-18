@@ -1,4 +1,5 @@
 # cacharreando
 Repo for practicing anything  
-Practice repository     
-probando visual studio code
+Practice repository
+Jul 17 2021
+testing visual studio code from Ubuntu
